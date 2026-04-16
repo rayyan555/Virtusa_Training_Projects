@@ -1,3 +1,0 @@
-100,Harry Potter And Sacred Stone,JK Rowling,false
-101,Gulliver's Travels,Jonathan Swift,false
-102,Discovery of India,Jawaharlal Nehru,false
