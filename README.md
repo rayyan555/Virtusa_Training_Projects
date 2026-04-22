@@ -10,7 +10,7 @@ This repository contains all the projects completed as part of Virtusa training.
 
 A console-based system to manage books, users, and issue/return operations.
 
-link->  https://github.com/rayyan555/Virtusa_Library-Management-System
+Link->  https://github.com/rayyan555/Virtusa_Library-Management-System
 
 ---
 
@@ -18,7 +18,7 @@ link->  https://github.com/rayyan555/Virtusa_Library-Management-System
 
 Tracks expenses, budgets, and provides interactive dashboards.
 
-link->  https://github.com/rayyan555/Virtusa_Smart-Expense-Tracker
+Link->  https://github.com/rayyan555/Virtusa_Smart-Expense-Tracker
 
 ---
 
@@ -26,14 +26,14 @@ link->  https://github.com/rayyan555/Virtusa_Smart-Expense-Tracker
 
 Analyzes sales data to extract insights like revenue trends and top products.
 
-link-> https://github.com/rayyan555/Virtusa_Online-Retail-Sales-Analysis-Database
+Link-> https://github.com/rayyan555/Virtusa_Online-Retail-Sales-Analysis-Database
 
 ---
 ###  4. Password Validator (Java)
 
 Validates passwords based on security rules like length, uppercase, and digits.
 
-link-> https://github.com/rayyan555/Virtusa_PasswordValidator
+Link-> https://github.com/rayyan555/Virtusa_PasswordValidator
 
 ---
 
@@ -41,7 +41,7 @@ link-> https://github.com/rayyan555/Virtusa_PasswordValidator
 
 Calculates ride fares based on distance, vehicle type, and surge pricing.
 
-link->  https://github.com/rayyan555/Virtusa_FareCalculator-Python-
+Link->  https://github.com/rayyan555/Virtusa_FareCalculator-Python-
 
 ---
 
@@ -49,7 +49,7 @@ link->  https://github.com/rayyan555/Virtusa_FareCalculator-Python-
 
  Tracks book loans, overdue returns, and user activity.
  
- link->  https://github.com/rayyan555/Virtusa_The-Digital-Library-Audit-SQL-
+ Link->  https://github.com/rayyan555/Virtusa_The-Digital-Library-Audit-SQL-
  
 ---
 
