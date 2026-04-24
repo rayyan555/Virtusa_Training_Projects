@@ -76,7 +76,7 @@ This project implements a SQL-based system to solve these issues efficiently.
 
 ###  3. Delete Inactive Students 
 
-![Query](images/Screenshot%202026-04-15%20090507.png)
+![Query](images/Screenshot%202026-04-24%20114710.png)
 
 ###  4. Final Students Table
 
