@@ -47,9 +47,9 @@ INSERT INTO Students (Name, Email, JoinDate) VALUES
 ('Neha', 'neha@gmail.com', '2019-05-25');
 
 INSERT INTO IssuedBooks (BookID, StudentID, IssueDate, ReturnDate) VALUES
-(1, 1, '2026-03-01', NULL),   -- overdue
+(1, 1, '2026-03-01', NULL),   
 (2, 2, '2026-04-01', '2026-04-10'),
-(3, 3, '2026-02-20', NULL),   -- overdue
+(3, 3, '2026-02-20', NULL),   
 (4, 1, '2026-04-05', NULL),
 (5, 2, '2026-03-15', '2026-03-25');
 
@@ -72,10 +72,9 @@ ORDER BY TotalBorrowed DESC;
 
 
 DELETE FROM Students
-WHERE StudentID IN (
-    SELECT StudentID FROM IssuedBooks
-) = 0
-AND StudentID > 0
+WHERE StudentID NOT IN (
+    SELECT DISTINCT StudentID FROM IssuedBooks
+)
 AND JoinDate < CURDATE() - INTERVAL 3 YEAR;
 
 
